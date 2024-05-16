@@ -3,12 +3,12 @@
 ## Before Building
 
 - [ ] Have clear idea of the business requirements
-- [ ] Get UX/UI designer's mock ups and understand what the designer's visions are, and how they fit in our current design system
+- [ ] Get UX/UI designer's mock-ups and understand what the designer's visions are, and how they fit in our current design system
 - [ ] Understand the current design system, and what are the possible impacts for current layouts
 
 ## During Development Process
 
-- [ ] Have conistent naming convention, preferablly enforced by a linter (e.g. eslint)
+- [ ] Have consistent naming conventions, preferably enforced by a linter (e.g. eslint)
 - [ ] Used preferred way for layouts (grid > flexbox > absolute/relative position)
 - [ ] Consolidate similar elements or make them re-usable
 - [ ] The boy scout rule: everywhere you touched is cleaner than before
